@@ -1,0 +1,15 @@
+print ("Script Added.")
+
+()
+
+--[[
+	By Pre-Hacker
+]]
+game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "VrantAPI.dll!",
+Text = "Script Added!", 
+
+Button1 = "Yes",
+Button2 = "Cancel",
+Duration = 30 
+})
